@@ -1,0 +1,1 @@
+python train.py --logtostderr --worker_replicas=2 --train_dir=F:\Python\Car_Swimming_Pool_Detection\training_files --pipeline_config_path=F:\Python\Car_Swimming_Pool_Detection\training_files\faster_rcnn_inception_v2_coco.config

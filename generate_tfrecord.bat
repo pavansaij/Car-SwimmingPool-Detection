@@ -1,0 +1,1 @@
+python generate_tfrecord.py --csv_input=F:\Python\Car_Swimming_Pool_Detection\training_csv_data\_labels.csv --image_dir=F:\Python\Car_Swimming_Pool_Detection\training_data\images --output_path=F:\Python\Car_Swimming_Pool_Detection\tf_record\train.record
